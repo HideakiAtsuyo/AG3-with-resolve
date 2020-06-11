@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnarchyGrabber3", "AnarchyGrabber3\AnarchyGrabber3.csproj", "{B722F0B8-D1BE-4569-A321-57E8D619ECDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B722F0B8-D1BE-4569-A321-57E8D619ECDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B722F0B8-D1BE-4569-A321-57E8D619ECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B722F0B8-D1BE-4569-A321-57E8D619ECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B722F0B8-D1BE-4569-A321-57E8D619ECDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D0B97B-36BD-45BC-8569-5F8591243281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D0B97B-36BD-45BC-8569-5F8591243281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D0B97B-36BD-45BC-8569-5F8591243281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D0B97B-36BD-45BC-8569-5F8591243281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB26674A-CB32-4F22-BC44-5515D8D5C151}
+	EndGlobalSection
+EndGlobal
