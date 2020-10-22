@@ -3,10 +3,10 @@
   const fs = require('fs');
 
   electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
-      j.responseHeaders[Access-Control-Allow-Origin] = '*';
-      if (!j.responseHeaders.content-security-policy-report-only && !j.responseHeaders.content-security-policy) return k({ cancel: false }); 
-      delete j.responseHeaders.content-security-policy-report-only; 
-      delete j.responseHeaders[content-security-policy];
+      j.responseHeaders["Access-Control-Allow-Origin"] = '*';
+      if (!j.responseHeaders["content-security-policy-report-only"] && !j.responseHeaders["content-security-policy"]) return k({ cancel: false }); 
+      delete j.responseHeaders["content-security-policy-report-only"]; 
+      delete j.responseHeaders["content-security-policy"];
       k({ cancel: false, responseHeaders: j.responseHeaders }); 
     }); 
 
